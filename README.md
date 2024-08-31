@@ -1,6 +1,12 @@
 # Normal Project
 
 - Price 100 Bath  \ 2.XX$
+# Map Lists
+
+- Blox Fruits [99473222206]
+- King Legcy [1451439645]
+- Meme Sea [3756501373]
+- Heroes Battlegrounds [4568630521]
 
 # Author
 - [@Ares](https://discordapp.com/users/968793111591534612)
