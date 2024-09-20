@@ -9,7 +9,8 @@
 - Heroes Battlegrounds [4568630521]
 - Drivng Empire [1202096104]
 - Gule Piece [394506555]
-- Legends of Speed [3101667897]
+- Legends of Speed [1119466531]
+- Mussle Legends [1268927906]
 
 # Author
 - [@Ares](https://discordapp.com/users/968793111591534612)
